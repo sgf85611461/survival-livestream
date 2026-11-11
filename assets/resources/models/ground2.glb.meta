@@ -1,0 +1,143 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1",
+  "files": [],
+  "subMetas": {
+    "c15d0": {
+      "importer": "gltf-mesh",
+      "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@c15d0",
+      "displayName": "",
+      "id": "c15d0",
+      "name": "RockPath_Round_Thin.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2254
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ef44": {
+      "importer": "gltf-embeded-image",
+      "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@9ef44",
+      "displayName": "",
+      "id": "9ef44",
+      "name": "PathRocks_Diffuse.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@9ef44"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "647a1": {
+      "importer": "gltf-material",
+      "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@647a1",
+      "displayName": "",
+      "id": "647a1",
+      "name": "PathRocks.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b34a": {
+      "importer": "gltf-scene",
+      "uuid": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@5b34a",
+      "displayName": "",
+      "id": "5b34a",
+      "name": "ground2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "PathRocks_Diffuse.png",
+        "uri": "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@9ef44"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@c15d0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@7d6ab"
+      ],
+      "materials": [
+        "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@647a1"
+      ],
+      "scenes": [
+        "45b220f0-83e9-43d1-bb1f-4c49c4c4f2b1@5b34a"
+      ]
+    }
+  }
+}

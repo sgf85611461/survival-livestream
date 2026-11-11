@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "voice": "xiaoxiao",
+  "volume": 100,
+  "rate": 3,
+  "welcome": "欢迎来到末日避难所，发弹幕建塔守家！",
+  "buildTower": "建造了箭塔，火力增加！",
+  "brickWall": "大家点赞给力，围墙加固成砖墙！",
+  "stoneWall": "城墙升级！防御大增！",
+  "follow": "感谢关注，血量回复！",
+  "gift": "感谢礼物，继续加油！",
+  "lowWall": "墙快破了！快点赞修墙，送礼物回血！",
+  "boss": "警告！Boss来袭，火力全开！",
+  "timedTips": [
+    "发弹幕建塔守住避难所",
+    "双击点赞升级城墙",
+    "点关注加血加防",
+    "送礼物飘爱心守城"
+  ],
+  "timedInterval": 10,
+  "lowWallThreshold": 30
+}

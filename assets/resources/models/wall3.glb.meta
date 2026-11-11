@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a63c3": {
+      "importer": "gltf-mesh",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@a63c3",
+      "displayName": "",
+      "id": "a63c3",
+      "name": "WallTowers_DoorClosed_SecondAge.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2064
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "710bf": {
+      "importer": "gltf-material",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@710bf",
+      "displayName": "",
+      "id": "710bf",
+      "name": "Metal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c96a": {
+      "importer": "gltf-material",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@2c96a",
+      "displayName": "",
+      "id": "2c96a",
+      "name": "Stone_Light.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1ef": {
+      "importer": "gltf-material",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@8c1ef",
+      "displayName": "",
+      "id": "8c1ef",
+      "name": "Wood.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "925cb": {
+      "importer": "gltf-material",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@925cb",
+      "displayName": "",
+      "id": "925cb",
+      "name": "Main.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b626": {
+      "importer": "gltf-scene",
+      "uuid": "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@3b626",
+      "displayName": "",
+      "id": "3b626",
+      "name": "wall3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@a63c3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@710bf",
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@2c96a",
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@17464",
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@8c1ef",
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@925cb"
+      ],
+      "scenes": [
+        "a8ff31a2-5cc8-4a26-b662-e94c1d69d2ea@3b626"
+      ]
+    }
+  }
+}

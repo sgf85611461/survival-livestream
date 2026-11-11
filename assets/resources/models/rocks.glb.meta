@@ -1,0 +1,219 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d",
+  "files": [],
+  "subMetas": {
+    "0b9ae": {
+      "importer": "gltf-mesh",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@0b9ae",
+      "displayName": "",
+      "id": "0b9ae",
+      "name": "Rock_4.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 456
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de688": {
+      "importer": "gltf-mesh",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@de688",
+      "displayName": "",
+      "id": "de688",
+      "name": "Rock_1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 228
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb57a": {
+      "importer": "gltf-mesh",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@fb57a",
+      "displayName": "",
+      "id": "fb57a",
+      "name": "Rock_2.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 202
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2fd9": {
+      "importer": "gltf-mesh",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@b2fd9",
+      "displayName": "",
+      "id": "b2fd9",
+      "name": "Rock_3.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 712
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab237": {
+      "importer": "gltf-mesh",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@ab237",
+      "displayName": "",
+      "id": "ab237",
+      "name": "Rock_5.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 632
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17a58": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@17a58",
+      "displayName": "",
+      "id": "17a58",
+      "name": "Rocks.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f69c3954-95d0-4b73-a47d-b9b2a306090d@17a58"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c910": {
+      "importer": "gltf-material",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@2c910",
+      "displayName": "",
+      "id": "2c910",
+      "name": "Rock.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c9ed": {
+      "importer": "gltf-scene",
+      "uuid": "f69c3954-95d0-4b73-a47d-b9b2a306090d@9c9ed",
+      "displayName": "",
+      "id": "9c9ed",
+      "name": "rocks.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Rocks.png",
+        "uri": "f69c3954-95d0-4b73-a47d-b9b2a306090d@17a58"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@0b9ae",
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@de688",
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@fb57a",
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@b2fd9",
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@ab237"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@7d6ab"
+      ],
+      "materials": [
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@2c910"
+      ],
+      "scenes": [
+        "f69c3954-95d0-4b73-a47d-b9b2a306090d@9c9ed"
+      ]
+    }
+  }
+}

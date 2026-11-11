@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc",
+  "files": [],
+  "subMetas": {
+    "32a51": {
+      "importer": "gltf-mesh",
+      "uuid": "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@32a51",
+      "displayName": "",
+      "id": "32a51",
+      "name": "Cube.022.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 416
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3faf6": {
+      "importer": "gltf-material",
+      "uuid": "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@3faf6",
+      "displayName": "",
+      "id": "3faf6",
+      "name": "LightWood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb379": {
+      "importer": "gltf-material",
+      "uuid": "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@cb379",
+      "displayName": "",
+      "id": "cb379",
+      "name": "Celing.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de19a": {
+      "importer": "gltf-scene",
+      "uuid": "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@de19a",
+      "displayName": "",
+      "id": "de19a",
+      "name": "tower2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@32a51"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@3faf6",
+        "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@cb379"
+      ],
+      "scenes": [
+        "b2d4a84e-0ed6-4ca7-95a8-f9d378c9d5cc@de19a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin"
+  ],
+  "subMetas": {
+    "54494": {
+      "importer": "gltf-animation",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@54494",
+      "displayName": "",
+      "id": "54494",
+      "name": "Zombie|ZombieIdle.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.541666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "b8d5e": {
+      "importer": "gltf-mesh",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@b8d5e",
+      "displayName": "",
+      "id": "b8d5e",
+      "name": "Zombie_Cylinder.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2116
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c16a9": {
+      "importer": "gltf-animation",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@c16a9",
+      "displayName": "",
+      "id": "c16a9",
+      "name": "Zombie|ZombieBite.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.041666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f3313": {
+      "importer": "gltf-animation",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@f3313",
+      "displayName": "",
+      "id": "f3313",
+      "name": "Zombie|ZombieCrawl.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.125
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "896a5": {
+      "importer": "gltf-animation",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@896a5",
+      "displayName": "",
+      "id": "896a5",
+      "name": "Zombie|ZombieRun.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "247b6": {
+      "importer": "gltf-animation",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@247b6",
+      "displayName": "",
+      "id": "247b6",
+      "name": "Zombie|ZombieWalk.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 41
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b054": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@0b054",
+      "displayName": "",
+      "id": "0b054",
+      "name": "Zombie.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dcc1098d-f9ce-46bd-824f-6574ffddca76@0b054"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f1b0": {
+      "importer": "gltf-scene",
+      "uuid": "dcc1098d-f9ce-46bd-824f-6574ffddca76@6f1b0",
+      "displayName": "",
+      "id": "6f1b0",
+      "name": "boss.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Zombie.png",
+        "uri": "dcc1098d-f9ce-46bd-824f-6574ffddca76@0b054"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Zombie|ZombieBite",
+        "duration": 5.041666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Zombie|ZombieBite",
+            "from": 0,
+            "to": 5.041666507720947,
+            "wrapMode": 2,
+            "previousId": "c16a9"
+          }
+        ]
+      },
+      {
+        "name": "Zombie|ZombieCrawl",
+        "duration": 5.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Zombie|ZombieCrawl",
+            "from": 0,
+            "to": 5.125,
+            "wrapMode": 2,
+            "previousId": "f3313"
+          }
+        ]
+      },
+      {
+        "name": "Zombie|ZombieIdle",
+        "duration": 5.541666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Zombie|ZombieIdle",
+            "from": 0,
+            "to": 5.541666507720947,
+            "wrapMode": 2,
+            "previousId": "54494"
+          }
+        ]
+      },
+      {
+        "name": "Zombie|ZombieRun",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Zombie|ZombieRun",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "896a5"
+          }
+        ]
+      },
+      {
+        "name": "Zombie|ZombieWalk",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Zombie|ZombieWalk",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "247b6"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "dcc1098d-f9ce-46bd-824f-6574ffddca76@b8d5e"
+      ],
+      "skeletons": [
+        "dcc1098d-f9ce-46bd-824f-6574ffddca76@438fe"
+      ],
+      "textures": [
+        "dcc1098d-f9ce-46bd-824f-6574ffddca76@7d6ab"
+      ],
+      "materials": [
+        "dcc1098d-f9ce-46bd-824f-6574ffddca76@b4e6b"
+      ],
+      "scenes": [
+        "dcc1098d-f9ce-46bd-824f-6574ffddca76@6f1b0"
+      ]
+    }
+  }
+}

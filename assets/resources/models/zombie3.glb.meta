@@ -1,0 +1,847 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "2526d984-464b-4518-8db0-99e4baa78175",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 50
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35313": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@35313",
+      "displayName": "",
+      "id": "35313",
+      "name": "CharacterArmature|Run_Attack.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "50768": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@50768",
+      "displayName": "",
+      "id": "50768",
+      "name": "CharacterArmature|Jump_Idle.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "94811": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@94811",
+      "displayName": "",
+      "id": "94811",
+      "name": "CharacterArmature|Idle.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "eb9d1": {
+      "importer": "gltf-mesh",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@eb9d1",
+      "displayName": "",
+      "id": "eb9d1",
+      "name": "Face.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1724
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "853de": {
+      "importer": "gltf-mesh",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@853de",
+      "displayName": "",
+      "id": "853de",
+      "name": "Tongue.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 224
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca337": {
+      "importer": "gltf-mesh",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@ca337",
+      "displayName": "",
+      "id": "ca337",
+      "name": "Zombie_Chubby.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 4226
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5ab5": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@a5ab5",
+      "displayName": "",
+      "id": "a5ab5",
+      "name": "CharacterArmature|Crawl.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "02b1c": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@02b1c",
+      "displayName": "",
+      "id": "02b1c",
+      "name": "CharacterArmature|Death.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "8e14e": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@8e14e",
+      "displayName": "",
+      "id": "8e14e",
+      "name": "CharacterArmature|HitReact.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5833333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "d9c76": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@d9c76",
+      "displayName": "",
+      "id": "d9c76",
+      "name": "CharacterArmature|Idle_Attack.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a87fb": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@a87fb",
+      "displayName": "",
+      "id": "a87fb",
+      "name": "CharacterArmature|Jump.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e836f": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@e836f",
+      "displayName": "",
+      "id": "e836f",
+      "name": "CharacterArmature|Jump_Land.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e1c54": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@e1c54",
+      "displayName": "",
+      "id": "e1c54",
+      "name": "CharacterArmature|No.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "055a1": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@055a1",
+      "displayName": "",
+      "id": "055a1",
+      "name": "CharacterArmature|Punch.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "fab8f": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@fab8f",
+      "displayName": "",
+      "id": "fab8f",
+      "name": "CharacterArmature|Run.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7083333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2852f": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@2852f",
+      "displayName": "",
+      "id": "2852f",
+      "name": "CharacterArmature|Run_Arms.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "cdd36": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@cdd36",
+      "displayName": "",
+      "id": "cdd36",
+      "name": "CharacterArmature|Walk.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "02f07": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@02f07",
+      "displayName": "",
+      "id": "02f07",
+      "name": "CharacterArmature|Wave.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f902f": {
+      "importer": "gltf-animation",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@f902f",
+      "displayName": "",
+      "id": "f902f",
+      "name": "CharacterArmature|Yes.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 50
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 50
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e909a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@e909a",
+      "displayName": "",
+      "id": "e909a",
+      "name": "Zombie_Atlas.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2526d984-464b-4518-8db0-99e4baa78175@e909a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5245": {
+      "importer": "gltf-scene",
+      "uuid": "2526d984-464b-4518-8db0-99e4baa78175@c5245",
+      "displayName": "",
+      "id": "c5245",
+      "name": "zombie3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Zombie_Atlas.png",
+        "uri": "2526d984-464b-4518-8db0-99e4baa78175@e909a"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "CharacterArmature|Crawl",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Crawl",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2,
+            "previousId": "a5ab5"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Death",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Death",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "02b1c"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|HitReact",
+        "duration": 0.5833333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|HitReact",
+            "from": 0,
+            "to": 0.5833333134651184,
+            "wrapMode": 2,
+            "previousId": "8e14e"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Idle",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Idle",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "94811"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Idle_Attack",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Idle_Attack",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2,
+            "previousId": "d9c76"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Jump",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Jump",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2,
+            "previousId": "a87fb"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Jump_Idle",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Jump_Idle",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "50768"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Jump_Land",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Jump_Land",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2,
+            "previousId": "e836f"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|No",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|No",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2,
+            "previousId": "e1c54"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Punch",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Punch",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "055a1"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Run",
+        "duration": 0.7083333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Run",
+            "from": 0,
+            "to": 0.7083333134651184,
+            "wrapMode": 2,
+            "previousId": "fab8f"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Run_Arms",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Run_Arms",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2,
+            "previousId": "2852f"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Run_Attack",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Run_Attack",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2,
+            "previousId": "35313"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Walk",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Walk",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2,
+            "previousId": "cdd36"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Wave",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Wave",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2,
+            "previousId": "02f07"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Yes",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Yes",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2,
+            "previousId": "f902f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2526d984-464b-4518-8db0-99e4baa78175@eb9d1",
+        "2526d984-464b-4518-8db0-99e4baa78175@853de",
+        "2526d984-464b-4518-8db0-99e4baa78175@ca337"
+      ],
+      "skeletons": [
+        "2526d984-464b-4518-8db0-99e4baa78175@30732",
+        "2526d984-464b-4518-8db0-99e4baa78175@f1394",
+        "2526d984-464b-4518-8db0-99e4baa78175@75ee4"
+      ],
+      "textures": [
+        "2526d984-464b-4518-8db0-99e4baa78175@7d6ab"
+      ],
+      "materials": [
+        "2526d984-464b-4518-8db0-99e4baa78175@89a26"
+      ],
+      "scenes": [
+        "2526d984-464b-4518-8db0-99e4baa78175@c5245"
+      ]
+    }
+  }
+}

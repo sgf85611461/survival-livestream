@@ -1,0 +1,332 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff",
+  "files": [],
+  "subMetas": {
+    "89720": {
+      "importer": "gltf-mesh",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@89720",
+      "displayName": "",
+      "id": "89720",
+      "name": "BirchTree_1.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 4598
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbf71": {
+      "importer": "gltf-mesh",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@bbf71",
+      "displayName": "",
+      "id": "bbf71",
+      "name": "BirchTree_3.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 6818
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "851d9": {
+      "importer": "gltf-mesh",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@851d9",
+      "displayName": "",
+      "id": "851d9",
+      "name": "BirchTree_5.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 4520
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5197a": {
+      "importer": "gltf-mesh",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@5197a",
+      "displayName": "",
+      "id": "5197a",
+      "name": "BirchTree_4.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 3562
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdfcf": {
+      "importer": "gltf-mesh",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@fdfcf",
+      "displayName": "",
+      "id": "fdfcf",
+      "name": "BirchTree_2.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 7660
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "398b7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@398b7",
+      "displayName": "",
+      "id": "398b7",
+      "name": "BirchTree_Bark_Normal.png.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4864b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@4864b",
+      "displayName": "",
+      "id": "4864b",
+      "name": "BirchTree_Bark.png.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f9682": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@f9682",
+      "displayName": "",
+      "id": "f9682",
+      "name": "BirchTree_Leaves.png.image",
+      "userData": {
+        "gltfIndex": 2,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d168e": {
+      "importer": "texture",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@d168e",
+      "displayName": "",
+      "id": "d168e",
+      "name": "normalmap_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@398b7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05da8": {
+      "importer": "texture",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@05da8",
+      "displayName": "",
+      "id": "05da8",
+      "name": "base_color_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@4864b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8518": {
+      "importer": "texture",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@b8518",
+      "displayName": "",
+      "id": "b8518",
+      "name": "base_color_texture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@f9682"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ccc4c": {
+      "importer": "gltf-material",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@ccc4c",
+      "displayName": "",
+      "id": "ccc4c",
+      "name": "BirchTree_Bark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75d2d": {
+      "importer": "gltf-material",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@75d2d",
+      "displayName": "",
+      "id": "75d2d",
+      "name": "BirchTree_Leaves.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d925": {
+      "importer": "gltf-scene",
+      "uuid": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@5d925",
+      "displayName": "",
+      "id": "5d925",
+      "name": "tree3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "BirchTree_Bark_Normal.png",
+        "uri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@398b7"
+      },
+      {
+        "name": "BirchTree_Bark.png",
+        "uri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@4864b"
+      },
+      {
+        "name": "BirchTree_Leaves.png",
+        "uri": "23a2f9e8-e42e-48ce-bc78-c932596d6aff@f9682"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@bbf71",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@851d9",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@5197a",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@89720",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@fdfcf"
+      ],
+      "skeletons": [],
+      "textures": [
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@d168e",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@05da8",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@b8518"
+      ],
+      "materials": [
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@ccc4c",
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@75d2d"
+      ],
+      "scenes": [
+        "23a2f9e8-e42e-48ce-bc78-c932596d6aff@5d925"
+      ]
+    }
+  }
+}

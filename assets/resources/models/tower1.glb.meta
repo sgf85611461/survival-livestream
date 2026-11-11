@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18f3c": {
+      "importer": "gltf-mesh",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@18f3c",
+      "displayName": "",
+      "id": "18f3c",
+      "name": "WatchTower_SecondAge_Level3.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 3200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c96a": {
+      "importer": "gltf-material",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@2c96a",
+      "displayName": "",
+      "id": "2c96a",
+      "name": "Stone_Light.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1ef": {
+      "importer": "gltf-material",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@8c1ef",
+      "displayName": "",
+      "id": "8c1ef",
+      "name": "Wood.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "925cb": {
+      "importer": "gltf-material",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@925cb",
+      "displayName": "",
+      "id": "925cb",
+      "name": "Main.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "097a3": {
+      "importer": "gltf-scene",
+      "uuid": "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@097a3",
+      "displayName": "",
+      "id": "097a3",
+      "name": "tower1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@18f3c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@2c96a",
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@17464",
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@8c1ef",
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@925cb",
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@9f269"
+      ],
+      "scenes": [
+        "99c2f0c9-2100-4ccf-acae-7dc58a0e512f@097a3"
+      ]
+    }
+  }
+}

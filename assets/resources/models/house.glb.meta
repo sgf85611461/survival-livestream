@@ -1,0 +1,178 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ddeb": {
+      "importer": "gltf-mesh",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2ddeb",
+      "displayName": "",
+      "id": "2ddeb",
+      "name": "Houses_SecondAge_1_Level3.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2716
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "925cb": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@925cb",
+      "displayName": "",
+      "id": "925cb",
+      "name": "Main.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c3ff": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2c3ff",
+      "displayName": "",
+      "id": "2c3ff",
+      "name": "Walls.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1ef": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@8c1ef",
+      "displayName": "",
+      "id": "8c1ef",
+      "name": "Wood.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9da07": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@9da07",
+      "displayName": "",
+      "id": "9da07",
+      "name": "Wood_Light.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c96a": {
+      "importer": "gltf-material",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2c96a",
+      "displayName": "",
+      "id": "2c96a",
+      "name": "Stone_Light.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87aed": {
+      "importer": "gltf-scene",
+      "uuid": "15f8dbaf-f07f-40b5-a261-3e439d00eb06@87aed",
+      "displayName": "",
+      "id": "87aed",
+      "name": "house.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2ddeb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@925cb",
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2c3ff",
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@17464",
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@8c1ef",
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@9da07",
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@2c96a"
+      ],
+      "scenes": [
+        "15f8dbaf-f07f-40b5-a261-3e439d00eb06@87aed"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "daa1f75b-a8d1-48e1-996a-382ac27e1011",
+  "files": [],
+  "subMetas": {
+    "6bf3c": {
+      "importer": "gltf-mesh",
+      "uuid": "daa1f75b-a8d1-48e1-996a-382ac27e1011@6bf3c",
+      "displayName": "",
+      "id": "6bf3c",
+      "name": "Fence.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 208
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1ef": {
+      "importer": "gltf-material",
+      "uuid": "daa1f75b-a8d1-48e1-996a-382ac27e1011@8c1ef",
+      "displayName": "",
+      "id": "8c1ef",
+      "name": "Wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e64b0": {
+      "importer": "gltf-scene",
+      "uuid": "daa1f75b-a8d1-48e1-996a-382ac27e1011@e64b0",
+      "displayName": "",
+      "id": "e64b0",
+      "name": "wall1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "daa1f75b-a8d1-48e1-996a-382ac27e1011@6bf3c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "daa1f75b-a8d1-48e1-996a-382ac27e1011@8c1ef"
+      ],
+      "scenes": [
+        "daa1f75b-a8d1-48e1-996a-382ac27e1011@e64b0"
+      ]
+    }
+  }
+}
